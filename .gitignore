@@ -1,0 +1,7 @@
+output/*
+*.swp
+*.pyc
+pelican-plugins/*
+pelican-themes/*
+cache/*
+/output/
