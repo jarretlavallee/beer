@@ -1,11 +1,10 @@
-language: python
-
+sudo: required
 env:
   global:
     - SSH_KEY="travis_key"
     - GIT_NAME="Jarret Lavallee"
     - GIT_EMAIL="jarret.lavallee@gmail.com"
-    - SOURCE_DIR="output"
+    - SOURCE_DIR="public"
     - DEPLOY_BRANCH="code"
     - TEMP_DIR=$(sudo mktemp -d /tmp/$REPO_NAME.XXXX)
 
@@ -14,19 +13,12 @@ before_install:
 
 install:
   # https://github.com/wummel/linkchecker/issues/649
-  - pip install requests==2.9.1
-  - pip install LinkChecker==9.3
-  - pip install pelican markdown
-
-  # grab the build theme
-  - git clone https://github.com/getpelican/pelican-themes.git
-
-  # grab the pelican plugins
-  - git clone https://github.com/getpelican/pelican-plugins
+  - sudo apt-get update
+  - sudo apt-get install -y snapd
+  - sudo snap install hugo
 
 script:
-  - linkchecker --check-extern ./content
-  - pelican
+  - /snap/bin/hugo
 
 after_success:
   - chmod a+x ./scripts/deploy.sh
