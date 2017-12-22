@@ -1,8 +1,14 @@
-Title: Red Headed Step Child
-Date: 2011-11-02 18:40
-Author: jarret
-Tags: Irish Red
-Slug: irish-read
+---
+author: jarret
+date: 2011-11-02
+slug: irish-read
+tags:
+- irish
+- red
+categories:
+  - recipies
+title: Red Headed Step Child
+---
 
 This is an Irish Red (Hence the horrible pun). I brewed it as the first
 brew through my Brutus 20! It went very well except for overflowing my

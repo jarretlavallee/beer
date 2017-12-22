@@ -1,8 +1,13 @@
-Title: Cranberry Wheat
-Date: 2011-11-05 12:39
-Author: jarret
-Tags: Wheat
-Slug: cranberry-wheat
+---
+author: jarret
+date: 2011-11-05
+slug: cranberry-wheat
+tags:
+- wheat
+categories:
+  - recipies
+title: Cranberry Wheat
+---
 
 So I give full credit of this recipe to my old roomante Andrew Wood. He
 has excellent ideas and was a great brewing partner. He came up with

@@ -1,8 +1,15 @@
-Title: Blonde Rye
-Date: 2011-11-05 12:24
-Author: jarret
-Tags: Future Recipes
-Slug: blonde-rye
+---
+author: jarret
+date: 2011-11-05
+slug: blonde-rye
+tags:
+- future
+- recipes
+- rye
+categories:
+  - recipies
+title: Blonde Rye
+---
 
 Here is a blonde rye I want to make. This is a try at a repro of my
 favorite rye I have ever made, hence the belgian yeast.

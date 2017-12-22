@@ -1,8 +1,14 @@
-Title: Centennial Blonde
-Date: 2011-11-02 22:38
-Author: jarret
-Tags: American Pale
-Slug: centennial-blonde
+---
+author: jarret
+date: 2011-11-02
+slug: centennial-blonde
+tags:
+- american
+- pale
+categories:
+  - recipies
+title: Centennial Blonde
+---
 
 Here is a basic blonde that I want to make. Its based on Centennial hops
 with a basic grain bill. It tastes like a hefe.

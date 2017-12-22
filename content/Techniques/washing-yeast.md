@@ -1,8 +1,13 @@
-Title: Washing Yeast
-Date: 2011-11-05 13:05
-Author: jarret
-Tags: Yeast
-Slug: washing-yeast
+---
+author: jarret
+date: 2011-11-05
+slug: washing-yeast
+tags:
+- yeast
+categories:
+  - techniques
+title: Washing Yeast
+---
 
 So washing yeast is easy cheap and efficient. The idea behind washing
 yeast is to wash it. Essentially you take the yeast cake from a previous

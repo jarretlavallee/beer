@@ -1,8 +1,13 @@
-Title: Wheatever
-Date: 2011-12-12 00:27
-Author: jarret
-Tags: Wheat
-Slug: wheatever
+---
+author: jarret
+date: 2011-12-12
+slug: wheatever
+tags:
+- wheat
+categories:
+  - recipies
+title: Wheatever
+---
 
 Simple recipe for a wheat that I made. It is fermenting now and started
 at 5 gallons 12 brix (12/10/11). Mashed at 152 deg.

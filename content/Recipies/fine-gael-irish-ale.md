@@ -1,8 +1,14 @@
-Title: Fine Gael Irish Ale
-Date: 2011-11-05 11:33
-Author: jarret
-Tags: Irish Red
-Slug: fine-gael-irish-ale
+---
+author: jarret
+date: 2011-11-05
+slug: fine-gael-irish-ale
+tags:
+- irish
+- red
+categories:
+  - recipies
+title: Fine Gael Irish Ale
+---
 
 In 2009 I did my first all grain. I went out and bought a turkey fryer
 and a home depot 5 gallon cooler. I made what  I thought was a SS braid
