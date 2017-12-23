@@ -30,27 +30,18 @@
 
 
 <div class="post-meta-code">
-    <div class="desc">written by
-    {{ with .Params.author }}
-        {{ . }}
-    {{ else }}
-        <a href="mailto:{{ .Site.Author.email }}">{{ .Site.Author.name }}</a>
-    {{ end }}
-    </div>
     {{ if isset .Params "categories" }}
     <div class="desc">
       categories:
       {{ $baseUrl := .Site.BaseURL }}
       {{ range .Params.categories }}
-      <a href="{{ $baseUrl }}/categories/{{ . | urlize }}">"{{ . }}"</a>
+      <a href="{{ $baseUrl }}/categories/{{ . | urlize }}">{{ . }}</a>
       {{ end }}
-    </div>
     {{ end }}
-      <div class="desc">
-        tags:
+        | tags:
         {{ with .Params.tags }}
           {{ range . }}
-          <a href="{{ $.Site.BaseURL}}tags/{{ . | urlize }}">"{{ . }}"</a>
+          <a href="{{ $.Site.BaseURL}}tags/{{ . | urlize }}">{{ . }}</a>
           {{ end }}
         {{ end }}
       </div>
