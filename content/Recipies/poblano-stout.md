@@ -1,8 +1,13 @@
-Title: Poblano Stout
-Date: 2014-11-30 08:44
-Author: jarret
-Tags: stout
-Slug: poblano-stout
+---
+author: jarret
+date: 2014-11-30
+slug: poblano-stout
+tags:
+- stout
+categories:
+  - recipies
+title: Poblano Stout
+---
 
 I am getting back into brewing and have made a few batches recently. I scalled down to 2.5 gallons and found that lasts about a month or more about 2 weeks. It is an ideal amount for Morgan and me as we will not get sick of any particular beer. I will however need to scale up my pipeline. Since it is winter and I can no longer enjoy the hop aroma and flavor, I have decided to start phasing into mouth feel beers for a while. This should be a nice winter stout with some subtle heat. I got the idea from Big Sky Brewing. They have a nice Poblano stout that I tasted a few years ago, and it is time to get oen going. 
 

@@ -1,8 +1,14 @@
-Title: Dark Amber Malt
-Date: 2011-10-29 09:59
-Author: jarret
-Tags: Home Roasting
-Slug: dark-amber-malt
+---
+author: jarret
+date: 2011-10-29
+slug: dark-amber-malt
+tags:
+- roasting
+- malt
+categories:
+  - techniques
+title: Dark Amber Malt
+---
 
 So last week I decided that I wanted to start home roasting my own
 malts. I found some awesome information [here][]. I decided to make the

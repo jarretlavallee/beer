@@ -1,8 +1,14 @@
-Title: House Amber
-Date: 2011-11-02 22:47
-Author: jarret
-Tags: House, Amber
-Slug: house-amber
+---
+author: jarret
+date: 2011-11-02
+slug: house-amber
+tags:
+- house
+- amber
+categories:
+  - recipies
+title: House Amber
+---
 
 This is my favorite recipe. I have not made this in a year or so, but I
 am going to get a nice pipeline of this going again and dedicate a tap

@@ -1,8 +1,13 @@
-Title: Rye Revenge
-Date: 2014-11-02 22:47
-Author: jarret
-Tags: Rye
-Slug: rye-revenge
+---
+author: jarret
+date: 2014-11-02
+slug: rye-revenge
+tags:
+- rye
+categories:
+  - recipies
+title: Rye Revenge
+---
 
 It has been quite a while since I have been brewing. Now I have a different setup and live in a different part of the country. I just brewed the House Amber and that has been fermenting for a month. It is now time to start on the next beer. I have been in love with the Terrapin Rye, so I figured I would try a clone. There are many clone recipies out there, so I copied this fro many of those. I did however, modify it to use Cascase and Armarillo hops as I have those readily available. 
 

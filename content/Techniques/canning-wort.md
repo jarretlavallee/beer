@@ -1,8 +1,15 @@
-Title: Canning Wort
-Date: 2012-01-02 19:18
-Author: jarret
-Tags: Yeast
-Slug: canning-wort
+---
+author: jarret
+date: 2012-01-02
+slug: canning-wort
+tags: 
+  - yeast
+  - wort
+  - starters
+categories:
+  - techniques
+title: Canning Wort
+---
 
 One of the most aggravating things about making a starter is that you
 have to boil the wort to sanitize. I would throw some DME, yeast

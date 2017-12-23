@@ -1,8 +1,14 @@
-Title: Easy Common
-Date: 2011-11-02 18:57
-Author: jarret
-Tags: Common, Home Roasting
-Slug: easy-common
+---
+author: jarret
+date: 2011-11-02
+slug: easy-common
+tags:
+- common
+- roasting
+categories:
+  - recipies
+title: Easy Common
+---
 
 This is a non traditional Common. It does not hav e Norther Brewers
 hops, but it will hopefully taste good. I used my home made [Dark Amber

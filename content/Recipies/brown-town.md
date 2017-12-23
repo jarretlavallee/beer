@@ -1,8 +1,13 @@
-Title: Brown Town
-Date: 2011-11-02 18:29
-Author: jarret
-Tags: Brown
-Slug: brown-town
+---
+author: jarret
+date: 2011-11-02
+slug: brown-town
+tags: 
+ - brown
+categories:
+  - recipies
+title: Brown Town
+---
 
 I brewed this one up a few weeks back. I finally kegged it after a month
 in the fermenter. It is still carbonating, but I tasted it today and it

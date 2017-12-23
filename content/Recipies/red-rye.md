@@ -1,8 +1,14 @@
-Title: Red Rye 
-Date: 2011-11-05 12:20
-Author: jarret
-Tags: Rye
-Slug: red-rye
+---
+author: jarret
+date: 2011-11-05
+slug: red-rye
+tags: 
+ - rye
+ - red
+categories:
+  - recipies
+title: Red Rye
+---
 
 So I want to brew up a red rye with the hops that I have. Here is what I
 am thinking.

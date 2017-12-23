@@ -1,8 +1,13 @@
-Title: Brutus 20 Runbook
-Date: 2011-10-30 18:38
-Author: jarret
-Tags: Brutus 20
-Slug: brutus-20-runbook
+---
+author: jarret
+date: 2011-10-30
+slug: brutus-20-runbook
+tags:
+- Brutus 20
+categories:
+  - techniques
+title: Brutus 20 Runbook
+---
 
 So I figured that I would get a runbook for the new Brutus 20 system. It
 is unedited and may change, but below is version 1.

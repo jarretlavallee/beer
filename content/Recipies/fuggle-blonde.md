@@ -1,8 +1,15 @@
-Title: Fugly Blonde
-Date: 2012-01-02 15:55
-Author: jarret
-Tags: Blonde, Home Roasting, Recipes
-Slug: fuggle-blonde
+---
+author: jarret
+date: 2012-01-02
+slug: fuggle-blonde
+tags:
+- blonde
+- roasting
+- recipes
+categories:
+  - recipies
+title: Fugly Blonde
+---
 
 Here is a basic one that I brewed up today. The homebrew store was
 closed so I used what I had on hand. I had one pound of golden home

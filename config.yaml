@@ -1,0 +1,17 @@
+---
+baseURL: "https://beer.moopless.com/"
+languageCode: "en-us"
+title: "1709 Brewing"
+Subtitle: "A weird brewing blog"
+
+# Theme settings
+theme: hello-programmer
+paginate: 2
+name: "1709 Brewing"
+licenselink: https://opensource.org/licenses/MIT
+description: "A weird brewing blog"
+homepage: "https://beer.moopless.com"
+
+author:
+  name: "jarret"
+  email: "jarret.lavallee@gmail.com"

@@ -1,8 +1,13 @@
-Title: Countertop Brutus 20
-Date: 2011-10-29 09:50
-Author: jarret
-Tags: Brutus 20
-Slug: countertop-brutus-20
+---
+author: jarret
+date: 2011-10-29
+slug: countertop-brutus-20
+tags:
+- Brutus 20
+categories:
+ - Projects
+title: Countertop Brutus 20
+---
 
 So this is something that I have been working on for a few months. Ok...
 in reality its been over a year. I thought this would be a great idea
