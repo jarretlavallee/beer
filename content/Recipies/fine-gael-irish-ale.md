@@ -32,7 +32,7 @@ over again.
 
 Well today I remembered that last year I set up a vps from Amazon and
 that it had a version of the brew wiki ( the vps that hosts this blog).
-http://brewwiki.moopless.com. Unfortunately It was a really old version
+http://brewwiki.twenty.ga. Unfortunately It was a really old version
 and was missing most of my recipes. However, It did have my first all
 grain recipe Fine Gael Irish Ale. I remember this one tasting delicious.
 That could have just been my hubris talking, but it was great. Below is
