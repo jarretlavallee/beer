@@ -1,5 +1,5 @@
 ---
-baseURL: "https://beer.twenty.ga/"
+baseURL: "https://beer.hubnut.ga/"
 languageCode: "en-us"
 title: "1709 Brewing"
 Subtitle: "A weird brewing blog"
@@ -10,7 +10,7 @@ paginate: 2
 name: "1709 Brewing"
 licenselink: https://opensource.org/licenses/MIT
 description: "A weird brewing blog"
-homepage: "https://beer.twenty.ga"
+homepage: "https://beer.hubnut.ga"
 
 author:
   name: "jarret"

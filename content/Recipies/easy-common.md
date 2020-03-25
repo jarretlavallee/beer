@@ -46,5 +46,5 @@ sit in a brown bag for 2 weeks.
 >     1.00 oz Cascade [5.50 %] - Boil 5.0 min Hop 8 3.2 IBUs
 >     1.0 pkg Safale American (DCL/Fermentis #US-05) [50.28 ml] Yeast 9 -
 
-  [Dark Amber Malt]: http://beer.twenty.ga/roasting/dark-amber-malt/
+  [Dark Amber Malt]: http://beer.hubnut.ga/roasting/dark-amber-malt/
     "Dark Amber Malt"
